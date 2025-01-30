@@ -1,0 +1,10 @@
+{
+    "user": "root",
+    "password": "root",
+    "dbname": "pms",
+    "dbname_pis": "pis_system",
+    "host": "localhost",
+    "connectionLimit": 10,
+    "timeZone": "local",
+    "rootFolder": "backend"
+}

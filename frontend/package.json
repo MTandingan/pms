@@ -1,0 +1,30 @@
+{
+  "name": "pms",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.2.96",
+    "@vueup/vue-quill": "^1.2.0",
+    "axios": "^1.4.0",
+    "chart.js": "^4.4.3",
+    "chartjs-plugin-datalabels": "^2.2.0",
+    "crypto-js": "^4.1.1",
+    "exceljs": "^4.4.0",
+    "moment": "^2.29.4",
+    "pinia": "^2.1.4",
+    "pinia-plugin-persistedstate": "^3.2.0",
+    "vue": "^3.3.4",
+    "vue-chartjs": "^5.3.1",
+    "vue-router": "^4.2.4",
+    "vuetify": "^3.6.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.6"
+  }
+}
