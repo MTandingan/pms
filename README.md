@@ -3,8 +3,6 @@
 ## Overview
 PMS is a comprehensive web application designed to streamline the management of IT asset maintenance within organizations. Built with Vue.js 3 and Node.js, this system provides a robust solution for tracking IT assets, scheduling maintenance, and generating detailed reports.
 
-![PMS Banner](https://via.placeholder.com/800x400)
-
 ## Features
 
 ### Asset Management
