@@ -9,14 +9,11 @@ PMS is a comprehensive web application designed to streamline the management of 
 - Complete IT asset inventory tracking
 - Detailed asset information including specifications, location, and maintenance history
 - Asset status monitoring and updates
-- QR code generation for quick asset identification
 
 ### Maintenance Scheduling
 - Automated maintenance schedule generation
-- Calendar view of upcoming maintenance tasks
-- Email notifications for scheduled maintenance
+- View of upcoming maintenance tasks
 - Task assignment and tracking
-- Priority-based maintenance scheduling
 
 ### Reporting System
 - Comprehensive maintenance history reports
@@ -52,13 +49,11 @@ PMS is a comprehensive web application designed to streamline the management of 
 - Vue.js 3
 - Vuex for state management
 - Vue Router
-- Tailwind CSS
 - Axios for API calls
 
 ### Backend
 - Node.js
 - Express.js
-- MongoDB
 - JWT Authentication
 
 ## Installation
@@ -125,5 +120,5 @@ pms/
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact
-Your Name - your.email@example.com
-Project Link: [https://github.com/your-username/pms](https://github.com/your-username/pms)
+Your Name - mntandingan97@gmail.com
+Project Link: [https://github.com/MTandingan/pms](https://github.com/MTandingan/pms)
