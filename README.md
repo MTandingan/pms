@@ -60,7 +60,7 @@ PMS is a comprehensive web application designed to streamline the management of 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/pms.git
+git clone https://github.com/MTandingan/pms.git
 cd pms
 ```
 
