@@ -120,5 +120,4 @@ pms/
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact
-Your Name - mntandingan97@gmail.com
-Project Link: [https://github.com/MTandingan/pms](https://github.com/MTandingan/pms)
+Mhelward Ely Tandingan - mntandingan97@gmail.com
