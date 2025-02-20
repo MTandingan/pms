@@ -202,7 +202,7 @@
                                 </v-btn>
                             </div>
                             <div class="text-grey-lighten-1 font-size-12px d-flex flex-row-reverse mt-2">
-                                Version 2.1.0
+                                Version 2.2.1
                             </div>
                         </v-col>
                     </v-row>

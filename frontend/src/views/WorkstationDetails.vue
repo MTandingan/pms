@@ -9,6 +9,7 @@
     import * as Util from '../helpers/helper';
     import { decryptData } from '../helpers/encryptUtil'
     import axios from 'axios';
+    import { useLogger } from '@/helpers/logger';
     import UserWorkstationRightsForm from '../components/UserWorkstationRightsForm.vue';
     import { QuillEditor } from '@vueup/vue-quill'
     import '@vueup/vue-quill/dist/vue-quill.snow.css';
@@ -19,6 +20,7 @@
     const wsq_id = route.params.id;
     const userStore = useUserStore();
     const utilStore = useUtilStore();
+    const logger = useLogger();
     const { customDialog } = storeToRefs(utilStore);
     const { user } = storeToRefs(userStore);
 
