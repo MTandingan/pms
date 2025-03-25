@@ -47,14 +47,13 @@ PMS is a comprehensive web application designed to streamline the management of 
 
 ### Frontend
 - Vue.js 3
-- Vuex for state management
+- Pinia for state management
 - Vue Router
 - Axios for API calls
 
 ### Backend
 - Node.js
 - Express.js
-- JWT Authentication
 
 ## Installation
 
@@ -115,9 +114,6 @@ pms/
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact
 Mhelward Ely Tandingan - mntandingan97@gmail.com
